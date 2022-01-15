@@ -9,5 +9,8 @@ This open-source software is to aid groups that may have members exclusive to on
 
 https://gist.github.com/DzifaHodey/a5cd4e709c065e941c3df53d46350f7f
 
+https://levelup.gitconnected.com/automate-whatsapp-messages-with-python-instantly-3e08d6600612
+
+
 
 
